@@ -1,3 +1,5 @@
+**Please note that this repository has moved to https://github.com/cloudsoft/brooklyn-terraform and will no longer be updated.**
+
 Brooklyn Terraform Integration
 =======
 
